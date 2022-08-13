@@ -8,7 +8,7 @@
   Para rodar esse projeto em seu terminal: 
   
   ```
-  npm install xxxyz
+  node app.js
   ```
   
 Jogo da Memoria em Java Script
